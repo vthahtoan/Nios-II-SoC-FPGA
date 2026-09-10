@@ -37,4 +37,4 @@ The system functionality was strictly verified using:
 2.  **SignalTap II Logic Analyzer:** Real-time on-chip debugging to capture physical signals on the DE2 board.
 
 ## Author
-*   **Toàn Trọng** - *Computer Engineering, UIT*
+*   **Võ Thanh Toàn** - *Computer Engineering, UIT*
